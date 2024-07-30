@@ -1,0 +1,5 @@
+/vendor/
+.idead/
+.env
+/juris_api-demo/*
+/juris_api/*
