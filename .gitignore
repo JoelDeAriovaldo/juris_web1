@@ -3,3 +3,4 @@
 .env
 /juris_api-demo/*
 /juris_api/*
+.vercel
